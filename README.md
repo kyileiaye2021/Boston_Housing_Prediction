@@ -7,7 +7,7 @@ Steps to build a MLR model:
 2. Cleaning dataset (Checking missing value | Ruling out outliers in each column)
 3. Preparing dataset for the model (Dataset splitting into training and testing data | feature scaling)
 4. Training the model
-5. Evaluating the model (Mean Absolute Error, Mean Squared Error | Root Mean Squared Error | r<sup>2<sup>)
+5. Evaluating the model (Mean Absolute Error, Mean Squared Error | Root Mean Squared Error | r<sup>2</sup>)
 6. Predicting the mdev of the input features
 
 
